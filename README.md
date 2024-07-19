@@ -16,16 +16,16 @@ The focus of this project is to analyze water usage trends across various indust
 
 ## Project Structure
 
-    ├── LICENSE
+   
     ├── README.md        <- README for using this project.
     ├── Data             <- Code of the DB creation and queries.
     │   │
-    │   └── audible_uncleaned.csv      <- Raw data uncleaned
-    │   └── audibleexport.csv          <- Cleaned data export for tableau.
+    │   └── water_use_data_2013_to_2022.csv      <- Raw data uncleaned
+    │   └── water_data_export.csv          <- Cleaned data export for tableau.
 
     ├── src            <- Folder containing the final SQL code of this project.
     │   │
-    │   └── AudibleData_Project.sql   <- Final SQL code for cleaning & EDA
+    │   └── MichiganWaterData_Exploratory.sql   <- Final SQL code for cleaning & EDA
     │          
     │   
     ├── Visualizations               <- Visualization images for this project.
@@ -39,12 +39,12 @@ The focus of this project is to analyze water usage trends across various indust
 
 ## Data Cleaning and Preprocessing
 
-Before beginning exploration, I cleaned and preprocessed the data, addressing missing values/nulls, and inconsistencies, converted the prices from IDR to USD, appropriately split the ratings and stars given into their columns, updated the date formatting, and removed the unnecessary information in the author and narrator columns.
+Before beginning exploration, I converted all the gallons of water columns to billions to simplify my numbers.
 
 
 ## Exploratory Data Analysis (EDA)
 
-EDA is an essential step in uncovering patterns and relationships within the data. I reveal significant trends and correlations through visualizations and statistical summaries, offering a comprehensive understanding of the audiobook market over time.
+EDA is an essential step in uncovering patterns and relationships within the data. I reveal significant trends and correlations through visualizations and statistical summaries, offering a comprehensive understanding of counties, industries, water usage throughout the years.
 
 
 ## Insights and Conclusions
