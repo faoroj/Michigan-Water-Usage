@@ -11,7 +11,7 @@ Welcome to my Audible Audiobook Trends Portfolio Project! In this project, I ana
 
 ### **Project Scope**
 
-The focus of this project is to delve into the trends and dynamics of Audible audiobooks over time. By examining various aspects such as popular audiobooks, notable authors, pricing patterns, and user ratings, I aim to provide in-depth insights into the audiobook market. This analysis will shed light on the factors influencing audiobooks' success and listeners' evolving preferences. 
+The focus of this project is to analyze water usage trends across various industries in Michigan from 2013 to 2022. By examining detailed data on water withdrawals from different sources—Great Lakes, groundwater, and inland surface water—this project aims to provide insights into the water consumption patterns and dependencies of different industry sectors. The analysis will highlight significant trends, identify high water-use industries, and explore potential conservation strategies. This comprehensive study will aid policymakers, environmentalists, and industry stakeholders in making informed decisions regarding water resource management in Michigan.
 
 
 ## Project Structure
@@ -44,7 +44,7 @@ Before beginning exploration, I cleaned and preprocessed the data, addressing mi
 
 ## Exploratory Data Analysis (EDA)
 
-EDA is an essential step in uncovering patterns and relationships within the data. I reveal significant trends and correlations through visualizations and statistical summaries, offering a comprehensive understanding of the audiobook market overtime.
+EDA is an essential step in uncovering patterns and relationships within the data. I reveal significant trends and correlations through visualizations and statistical summaries, offering a comprehensive understanding of the audiobook market over time.
 
 
 ## Insights and Conclusions
@@ -58,10 +58,10 @@ I've presented the findings through interactive visualizations, charts, and dash
 
 ## Key Questions Explored
 
-1. **TWho do we owe all this money to?**
-2. **Can a debt load of three times GDP ever be sustainable?**
-3. **Is ther any responsible way to reduce this debt?**
-4. **What could go wrong if we can't**
+1. **What are the overall trends in water usage across all industries in Michigan from 2013 to 2022?**
+2. **Which industries are the largest consumers of water in Michigan?**
+3. **How does water usage from different sources (Great Lakes, groundwater, inland surface water) compare across industries?**
+4. **What are the annual trends in water usage from each source (Great Lakes, groundwater, inland surface water)?**
 
 
 ## Author
