@@ -26,9 +26,7 @@ This project focuses on analyzing water usage trends across various industries i
     ├── src            <- Folder containing the final SQL code of this project.
     │   │
     │   └── MichiganWaterData_Exploratory.sql   <- Final SQL code for cleaning & EDA
-    │          
-    │  
-
+    
 ## Data Cleaning and Preprocessing
 
 Before exploring, I converted all the gallons of water columns to billions to simplify my numbers.
