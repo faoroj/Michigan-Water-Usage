@@ -11,7 +11,7 @@ Welcome to my Audible Audiobook Trends Portfolio Project! In this project, I ana
 
 ### **Project Scope**
 
-The focus of this project is to analyze water usage trends across various industries in Michigan from 2013 to 2022. By examining detailed data on water withdrawals from different sources—Great Lakes, groundwater, and inland surface water—this project aims to provide insights into the water consumption patterns and dependencies of different industry sectors. The analysis will highlight significant trends, identify high water-use industries, and explore potential conservation strategies. This comprehensive study will aid policymakers, environmentalists, and industry stakeholders in making informed decisions regarding water resource management in Michigan.
+This project focuses on analyzing water usage trends across various industries in Michigan from 2013 to 2022. By examining detailed data on water withdrawals from different sources—Great Lakes, groundwater, and inland surface water—this project aims to provide insights into the water consumption patterns and dependencies of different industry sectors. The analysis will highlight significant trends, identify high water-use industries, and explore potential conservation strategies. This comprehensive study will aid policymakers, environmentalists, and industry stakeholders in making informed decisions regarding water resource management in Michigan.
 
 
 ## Project Structure
@@ -54,6 +54,7 @@ Based on the findings from the analysis, I present a series of critical insights
 ## Visualizations and Reports
 
 I've presented the findings through interactive visualizations, charts, and dashboards made in Tableau. 
+
 <b>[Visualization](https://public.tableau.com/app/profile/jordon.faoro/viz/MichiganWaterUsageDashboard/Dashboard1)</b>
 
 ## Key Questions Explored
