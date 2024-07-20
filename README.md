@@ -7,7 +7,6 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-Welcome to my Audible Audiobook Trends Portfolio Project! In this project, I analyzed the evolving landscape of audiobooks, analyzing various trends related to popular titles, authors, pricing, and user ratings. Through comprehensive data analysis, I aimed to uncover significant patterns and insights that reveal how the audiobook market has transformed over time. Leveraging tools like Excel, MySQL, and Tableau, this project provides valuable information for authors, publishers, and audiobook enthusiasts, offering a deeper understanding of the dynamics shaping the audiobook industry.
 
 ### **Project Scope**
 
