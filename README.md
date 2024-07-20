@@ -39,7 +39,7 @@ The focus of this project is to analyze water usage trends across various indust
 
 ## Data Cleaning and Preprocessing
 
-Before beginning exploration, I converted all the gallons of water columns to billions to simplify my numbers.
+Before exploring, I converted all the gallons of water columns to billions to simplify my numbers.
 
 
 ## Exploratory Data Analysis (EDA)
@@ -54,7 +54,7 @@ Based on the findings from the analysis, I present a series of critical insights
 ## Visualizations and Reports
 
 I've presented the findings through interactive visualizations, charts, and dashboards made in Tableau. 
-
+<b>[Visualization](https://public.tableau.com/app/profile/jordon.faoro/viz/MichiganWaterUsageDashboard/Dashboard1)</b>
 
 ## Key Questions Explored
 
@@ -71,4 +71,4 @@ I've presented the findings through interactive visualizations, charts, and dash
 
 
 ## Contact me!
-If you have any questions or suggestions, you can reach out to me at [Jordon Faoro](mailto:jfaoro15@gmail.com). I would love to hear from you!
+If you have any questions or suggestions, you can contact me at [Jordon Faoro](mailto:jfaoro15@gmail.com). I would love to hear from you!
