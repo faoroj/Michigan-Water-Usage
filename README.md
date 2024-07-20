@@ -27,15 +27,7 @@ This project focuses on analyzing water usage trends across various industries i
     │   │
     │   └── MichiganWaterData_Exploratory.sql   <- Final SQL code for cleaning & EDA
     │          
-    │   
-    ├── Visualizations               <- Visualization images for this project.
-        │
-        ├── data           <- Datasets used and collected for this project.
-        │   
-        ├── pizza_sales_images       <- Additional images for Dashboards.
-        │
-        ├── data_dictionary.csv      <- Data Dictionary for the dataset.
-
+    │  
 
 ## Data Cleaning and Preprocessing
 
