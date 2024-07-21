@@ -36,9 +36,6 @@ Before exploring, I converted all the gallons of water columns to billions to si
 EDA is an essential step in uncovering patterns and relationships within the data. I reveal significant trends and correlations through visualizations and statistical summaries, offering a comprehensive understanding of counties, industries, water usage throughout the years.
 
 
-## Insights and Conclusions
-
-Based on the findings from the analysis,
 
 ## Visualizations and Reports
 
