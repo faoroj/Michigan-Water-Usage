@@ -42,7 +42,7 @@ Based on the findings from the analysis,
 
 ## Visualizations and Reports
 
-I've presented the findings through interactive visualizations, charts, and dashboards made in Tableau. 
+I've presented the findings through an interactive visualization made in Tableau. 
 
 <b>[Visualization](https://public.tableau.com/app/profile/jordon.faoro/viz/MichiganWaterUsageDashboard/Dashboard1)</b>
 
