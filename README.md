@@ -58,4 +58,4 @@ I've presented the findings through an interactive visualization made in Tableau
 
 
 ## Contact me!
-If you have any questions or suggestions, you can contact me at [Jordon Faoro](mailto:jfaoro15@gmail.com). I would love to hear from you!
+If you have any questions or suggestions, you can contact me at [Jordon Faoro](mailto:jfaoro15@gmail.com). I would love to hear from you!.
