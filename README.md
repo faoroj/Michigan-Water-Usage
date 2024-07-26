@@ -45,7 +45,7 @@ I've presented the findings through an interactive visualization made in Tableau
 
 ## Key Questions Explored
 
-1. **What are the overall trends in water usage across all industries in Michigan from 2013 t 2022?**
+1. **What are the overall trends in water usage across all industries in Michigan from 2013 to 2022?**
 2. **Which industries are the largest consumers of water in Michigan?**
 3. **How does water usage from different sources (Great Lakes, groundwater, inland surface water) compare across industries?**
 4. **What are the annual trends in water usage from each source (Great Lakes, groundwater, inland surface water)?**
