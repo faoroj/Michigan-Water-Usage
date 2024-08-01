@@ -10,7 +10,7 @@
 
 ### **Project Scope**
 
-This project analyzes water usage trends across various industries in Michigan from 2013 to 2022. By examining detailed data on water withdrawals from different sources—Great Lakes, groundwater, and inland surface water—this project aims to provide insights into the water consumption patterns and dependencies of different industry sectors. The analysis will highlight significant trends, identify high water-use industries, and explore potential conservation strategies. This comprehensive study will aid policymakers, environmentalists, and industry stakeholders in making informed decisions regarding water resource management in Michigan.
+This project analyzes water usage trends across various industries in Michigan from 2013 to 2022. By examining detailed data on water withdrawals from different sources—Great Lakes, groundwater, and inland surface water—this project aims to provide insights into the water consumption patterns and dependencies of varying industry sectors. The analysis will highlight significant trends, identify high water-use industries, and explore potential conservation strategies. This comprehensive study will aid policymakers, environmentalists, and industry stakeholders in making informed decisions regarding water resource management in Michigan.
 
 
 ## Project Structure
